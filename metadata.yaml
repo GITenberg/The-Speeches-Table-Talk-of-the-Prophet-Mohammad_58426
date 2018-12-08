@@ -8,12 +8,17 @@ contributor:
     deathdate: 1931
     gutenberg_agent_id: '25154'
     url: http://www.gutenberg.org/2009/agents/25154
+covers:
+- cover_type: archival
+  image_path: 58426-h/images/cover.jpg
 creator:
   author:
     agent_name: Allah, Muhammad ibn 'Abd
     gutenberg_agent_id: '49950'
     url: http://www.gutenberg.org/2009/agents/49950
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58426#The-Speeches-Table-Talk-of-the-Prophet-Mohammad
 gutenberg_issued: '2018-12-08'
 gutenberg_type: Text
 identifiers:
