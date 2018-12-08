@@ -1,0 +1,28 @@
+_repo: The-Speeches-Table-Talk-of-the-Prophet-Mohammad_58426
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Lane-Poole, Stanley
+    alias: Poole, Stanley Lane
+    birthdate: 1854
+    deathdate: 1931
+    gutenberg_agent_id: '25154'
+    url: http://www.gutenberg.org/2009/agents/25154
+creator:
+  author:
+    agent_name: Allah, Muhammad ibn 'Abd
+    gutenberg_agent_id: '49950'
+    url: http://www.gutenberg.org/2009/agents/49950
+description: ''
+gutenberg_issued: '2018-12-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58426'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Speeches & Table-Talk of the Prophet Mohammad
+url: http://www.gutenberg.org/ebooks/58426
